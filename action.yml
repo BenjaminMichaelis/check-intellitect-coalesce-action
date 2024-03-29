@@ -1,5 +1,8 @@
 name: 'Check IntelliTect.Coalesce'
 description: 'Make sure coalesce has been run'
+branding:
+  icon: 'check-square'
+  color: 'blue'
 inputs:
   working-directory:
     description: 'Working directory'
